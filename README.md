@@ -19,8 +19,8 @@ The following **required** functionality is completed:
 The following **optional** features are implemented:
 
 - [ ] User can load more tweets once they reach the bottom of the feed using infinite loading similar to the actual Twitter client.
-- [] User should be able to unretweet and unfavorite and should decrement the retweet and favorite count.
-- [] User can pull to refresh.
+- [x] User should be able to unretweet and unfavorite and should decrement the retweet and favorite count.
+- [x] User can pull to refresh.
 
 The following **additional** features are implemented:
 
